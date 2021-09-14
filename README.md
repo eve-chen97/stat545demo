@@ -4,3 +4,5 @@ Just a demo for in class
 This is a random sentence.
 
 I add a new sentence from github.
+
+This is a change that's made from my computer.
